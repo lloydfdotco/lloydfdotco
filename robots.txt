@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://lloydfdotco.github.io/sitemap.xml
